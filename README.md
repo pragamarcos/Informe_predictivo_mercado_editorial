@@ -41,16 +41,20 @@ La editorial es el factor más determinante en el precio
 Existe relación directa entre páginas y precio, pero no lineal
 Se identificaron nichos de mercado con oportunidades comerciales
 
+
 🛠️Lenguaje:
 
 Python 3.x
+
 
 Manipulación de Datos:
 
 pandas - Para cargar, limpiar y manipular el DataFrame
 numpy - Para operaciones numéricas y cálculos estadísticos
 
+
 Visualización:
 
 matplotlib - Creación de gráficos base
+
 seaborn - Visualizaciones estadísticas (pairplot, heatmap, boxplots)
