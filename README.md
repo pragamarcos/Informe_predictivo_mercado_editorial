@@ -52,6 +52,7 @@ Python 3.x
 **Manipulación de Datos:**
 
 pandas - Para cargar, limpiar y manipular el DataFrame
+
 numpy - Para operaciones numéricas y cálculos estadísticos
 
 
