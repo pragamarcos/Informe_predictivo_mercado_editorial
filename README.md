@@ -9,14 +9,20 @@ Proyecto de análisis exploratorio de datos (EDA) y predicción de precios en el
 Análisis Univariado
 
 Distribución de precios y características del catálogo
+
 Análisis por categorías y géneros literarios
+
 Estudio de variables físicas (páginas, encuadernación)
+
 
 Análisis Bivariado
 
 Correlación precio vs. número de páginas (r = 0.515)
+
 Comparación de precios por categorías literarias
+
 Relación entre tipo de encuadernación y precio
+
 
 Análisis Multivariado
 
@@ -30,7 +36,9 @@ Análisis de interacciones entre variables
 **🔹 Variables más influyentes en el precio:**
 
 Editorial (correlación: 0.705)
+
 Número de páginas (correlación: 0.515)
+
 Género literario (correlación: 0.462)
 
 
@@ -38,7 +46,9 @@ Género literario (correlación: 0.462)
 **🔹 Insights clave:**
 
 La editorial es el factor más determinante en el precio
+
 Existe relación directa entre páginas y precio, pero no lineal
+
 Se identificaron nichos de mercado con oportunidades comerciales
 
 
