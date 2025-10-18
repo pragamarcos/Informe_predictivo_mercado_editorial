@@ -5,6 +5,7 @@
 Proyecto de análisis exploratorio de datos (EDA) y predicción de precios en el mercado editorial argentino, utilizando el catálogo público de Yenny–El Ateneo. El objetivo es identificar los factores que influyen en la formación de precios de libros y desarrollar las bases para un modelo predictivo que permita optimizar estrategias de pricing dinámico.
 
 🔍 Análisis Realizado
+
 Análisis Univariado
 
 Distribución de precios y características del catálogo
@@ -25,13 +26,15 @@ Segmentación de mercado mediante clustering (K-Means)
 Análisis de interacciones entre variables
 
 📈 Principales Hallazgos
+
 🔹 Variables más influyentes en el precio:
 
 Editorial (correlación: 0.705)
 Número de páginas (correlación: 0.515)
 Género literario (correlación: 0.462)
 
-🔹 Segmentación identificada: 4 clusters de mercado con características distintivas
+
+
 🔹 Insights clave:
 
 La editorial es el factor más determinante en el precio
