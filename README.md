@@ -6,6 +6,7 @@ Proyecto de análisis exploratorio de datos (EDA) y predicción de precios en el
 
 **🔍 Análisis Realizado**
 
+
 Análisis Univariado
 
 Distribución de precios y características del catálogo
@@ -15,6 +16,7 @@ Análisis por categorías y géneros literarios
 Estudio de variables físicas (páginas, encuadernación)
 
 
+
 Análisis Bivariado
 
 Correlación precio vs. número de páginas (r = 0.515)
@@ -22,6 +24,7 @@ Correlación precio vs. número de páginas (r = 0.515)
 Comparación de precios por categorías literarias
 
 Relación entre tipo de encuadernación y precio
+
 
 
 Análisis Multivariado
