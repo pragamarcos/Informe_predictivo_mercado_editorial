@@ -1,6 +1,7 @@
 📚 Análisis Predictivo de Precios en el Mercado Editorial Argentino
 
 🎯 Descripción del Proyecto
+
 Proyecto de análisis exploratorio de datos (EDA) y predicción de precios en el mercado editorial argentino, utilizando el catálogo público de Yenny–El Ateneo. El objetivo es identificar los factores que influyen en la formación de precios de libros y desarrollar las bases para un modelo predictivo que permita optimizar estrategias de pricing dinámico.
 
 🔍 Análisis Realizado
